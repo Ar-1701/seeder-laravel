@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <h1>Hello, Seeder!</h1>
+    <h1>Hello, Seeders!</h1>
     <table class="table table-bordered">
         <thead>
             <tr>
